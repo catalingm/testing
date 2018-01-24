@@ -4,6 +4,7 @@ Updated READMe with new information
 Sharing remotelt is fun and easy
 
 fixing bug#1234
+Another Fix to bug#1234
 
 Added from browser
 Feature1
