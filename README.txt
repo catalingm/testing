@@ -1,2 +1,3 @@
 Hello, Git
-Second line
+Hello, again
+Updated READMe with new information
